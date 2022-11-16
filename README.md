@@ -23,3 +23,6 @@ Networking brings together URLSession, Combine, Decodable and Generics to simpli
 - [ ] Integration of a Service.
 - [ ] Handling Offline Mode.
 - [ ] Writing unit tests.
+
+## Usecase
+Will use [coingecko](https://www.coingecko.com/en/api) for requesting a coins data to test our Networking.
