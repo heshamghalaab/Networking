@@ -24,4 +24,16 @@ enum Server {
         default: fatalError("UnExpeced, please handle any new servers here")
         }
     }
+    
+    var dataResponseHandling: DataResponseHandling.Type{
+        switch self{
+        case .main: return DataResponseHandler.self
+        }
+    }
+
+    var urlRequestBuilding: URLRequestBuilding.Type{
+        switch self{
+        case .main: return URLRequestBuilder.self
+        }
+    }
 }
