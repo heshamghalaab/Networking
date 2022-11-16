@@ -14,7 +14,7 @@ Networking brings together URLSession, Combine, Decodable and Generics to simpli
 **Unit Testing:** `XCTest` is used for unit test.
 
 ## TODO List:
-- [ ] Creating structure and Core Helpers.
+- [x] Creating structure and Core Helpers.
 - [ ] Creating EndPoint.
 - [ ] Creating URLRequestBuilding.
 - [ ] Creating DataResponseHandling.
