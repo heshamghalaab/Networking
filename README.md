@@ -15,10 +15,10 @@ Networking brings together URLSession, Combine, Decodable and Generics to simpli
 
 ## TODO List:
 - [x] Creating structure and Core Helpers.
-- [ ] Creating EndPoint.
-- [ ] Creating URLRequestBuilding.
-- [ ] Creating DataResponseHandling.
-- [ ] Creating DataRequesting.
+- [x] Creating EndPoint.
+- [x] Creating URLRequestBuilding.
+- [x] Creating DataResponseHandling.
+- [x] Creating DataRequesting.
 - [ ] Creating Requestable.
 - [ ] Integration of a Service.
 - [ ] Handling Offline Mode.
